@@ -6,11 +6,12 @@ Design Patterns: Elements of Reusable Object-Oriented Software (book)
 Refactoring Guru (website)
 
 ## Creational Patterns
-Abstract Factory  
-Builder  
-Factory Method  
-Prototype  
-Singleton  
+1. Builder  
+2. Prototype  
+3. Singleton
+4. Factories
+    * Abstract Factory
+    * Factory Method
 
 ## Structural Patterns
 Adapter  
