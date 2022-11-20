@@ -1,0 +1,1 @@
+**Interface Segregation Principle:** It states that “do not force any client to implement an interface which is irrelevant to them“. Here you should prefer many client interfaces rather than one general interface and each interface should have a specific responsibility.
